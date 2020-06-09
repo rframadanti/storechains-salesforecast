@@ -15,7 +15,7 @@ Several predictive models were built which included:
 3. Decision Tree Regression (with SAS Entreprise miner)
 4. Random Forest Regression (with Python)
 5. Gradient Boosting (with Python)
-6. Neural Network (with Python)
+6. Neural Network (with SAS Entreprise miner)
 7. Auto ARIMA (with Python)
 8. SARIMA & Auto SARIMA (with Python)
 
