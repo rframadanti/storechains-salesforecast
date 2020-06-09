@@ -15,8 +15,9 @@ Several predictive models were built which included:
 3. Decision Tree Regression (with SAS Entreprise miner)
 4. Random Forest Regression (with Python)
 5. Gradient Boosting (with Python)
-6. Auto ARIMA (with Python)
-7. SARIMA & Auto SARIMA (with Python)
+6. Neural Network (with Python)
+7. Auto ARIMA (with Python)
+8. SARIMA & Auto SARIMA (with Python)
 
 The models were validated using both random 80:20 training:validation validation and out-of-sample validation and their RMSE were calculated and compared.
 Finally the Random Forest model was chosen for the final forecast of the 6-weeks sales because it had the best prediction accuracy of 1111 RMSE from the historical data.
